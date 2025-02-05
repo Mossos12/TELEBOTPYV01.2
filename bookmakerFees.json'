@@ -1,0 +1,34 @@
+{
+    
+    "Bet365": {"commission": 2.5, "deposit": 1.0, "withdrawal": 1.5},
+    "William Hill": {"commission": 3.0, "deposit": 0.5, "withdrawal": 2.0},
+    "Unibet": {"commission": 2.0, "deposit": 0.0, "withdrawal": 1.8},
+    "Betfair": {"commission": 2.0, "deposit": 0.0, "withdrawal": 1.0},
+    "888sport": {"commission": 2.2, "deposit": 1.0, "withdrawal": 1.5},
+  
+  
+    "SBOBET": {"commission": 1.5, "deposit": 0.0, "withdrawal": 2.5},
+    "Pinnacle": {"commission": 0.0, "deposit": 0.0, "withdrawal": 0.0},
+    "Dafabet": {"commission": 2.0, "deposit": 0.5, "withdrawal": 1.5},
+
+    "DraftKings": {"commission": 4.0, "deposit": 0.0, "withdrawal": 2.0},
+    "FanDuel": {"commission": 3.5, "deposit": 0.0, "withdrawal": 1.8},
+    "Caesars": {"commission": 3.0, "deposit": 1.0, "withdrawal": 2.5},
+  
+    
+    "Cloudbet": {"commission": 1.0, "deposit": 0.0, "withdrawal": 0.0},
+    "Stake": {"commission": 0.0, "deposit": 0.0, "withdrawal": 0.0},
+  
+    
+    "SportyBet": {"commission": 3.0, "deposit": 2.0, "withdrawal": 3.0},
+    "BetKing": {"commission": 2.5, "deposit": 1.5, "withdrawal": 2.5},
+  
+    
+    "Sportsbet": {"commission": 2.0, "deposit": 0.0, "withdrawal": 1.0},
+    "Tabcorp": {"commission": 2.2, "deposit": 0.5, "withdrawal": 1.2},
+  
+    
+    "Marathon Bet": {"commission": 1.8, "deposit": 0.0, "withdrawal": 1.0},
+    "LeoVegas": {"commission": 2.5, "deposit": 0.0, "withdrawal": 1.5}
+  }
+  
